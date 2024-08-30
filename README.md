@@ -2,7 +2,10 @@
     <img src="https://ada-strapi-production.s3.sa-east-1.amazonaws.com/Thumb_Meta_20_f25502065b.png" width="900" align="middle">
 </div>
 
-# 📊 german_credit_exploratory_analysis
+# 📊 Exploratory analysis of personal loans risk in Germany 
+> Análise exploratória do risco dos empréstimos pessoais na Alemanha <!-- <img src="https://img.freepik.com/fotos-premium/bandeira-alema-da-alemanha_469558-8411.jpg" width="30" align="middle"> -->
+
+
 
 
 ## 💻 About the project
